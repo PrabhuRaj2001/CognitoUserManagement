@@ -1,0 +1,7 @@
+com\teleapps\cognitocontroller\DeleteCognitoUserHandler.class
+com\teleapps\domain\DeleteCognitoUserResponse.class
+com\teleapps\domain\SignUpRequestData.class
+com\teleapps\lambda\Handler.class
+com\teleapps\cognitocontroller\CognitoSignUpHandler.class
+com\teleapps\domain\DeleteCognitoUserRequest.class
+com\teleapps\cognitocontroller\CognitoConfirmHandler.class
